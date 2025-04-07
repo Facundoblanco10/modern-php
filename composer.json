@@ -16,6 +16,7 @@
         "relay/relay": "^3.0",
         "laminas/laminas-diactoros": "^3.5",
         "middlewares/fast-route": "^2.1",
-        "middlewares/request-handler": "^2.1"
+        "middlewares/request-handler": "^2.1",
+        "narrowspark/http-emitter": "^2.0"
     }
 }
