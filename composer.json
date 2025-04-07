@@ -1,0 +1,17 @@
+{
+    "name": "facundo-simpletech/modern-php",
+    "description": "An example of a modern PHP application bootstrapped without a framework.",
+    "autoload": {
+        "psr-4": {
+            "ExampleApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Facundo Blanco"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^7.0"
+    }
+}
